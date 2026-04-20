@@ -14,6 +14,11 @@ public :
              cout << "kategori : " << kategori << endl;
              cout << "tanggalProduksi : " << tanggalProduksi << endl;
 
+  }
+};
+        
+
+
 
 
   
