@@ -18,7 +18,13 @@ public :
 };
         
 
+int main(){
+    Barang Elektronik;
+    Elektronik.nama = "Laptop";
+    Elektronik.jumlah = 2;
+    Elektronik.kategori = "Elektronik";
+    Elektronik.SpesifikasiBarang();
 
-
+   
 
   
