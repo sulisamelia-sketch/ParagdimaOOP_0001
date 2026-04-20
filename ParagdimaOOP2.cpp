@@ -26,5 +26,14 @@ int main(){
     Elektronik.SpesifikasiBarang();
 
    
+ Barang NonElektronik;
+    NonElektronik.nama = "Meja";
+    NonElektronik.jumlah = 10;
+    NonElektronik.kategori = "NonElektronik";
+    
+    NonElektronik.SpesifikasiBarang();
+}  
+  
+    
 
   
