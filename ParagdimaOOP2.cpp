@@ -9,4 +9,11 @@ public :
         char tanggalProduksi;
 
     void SpesifikasiBarang() {
-             
+             cout << "NAMA : " << nama << endl;
+             cout << "jumlah: " << jumlah << endl;
+             cout << "kategori : " << kategori << endl;
+             cout << "tanggalProduksi : " << tanggalProduksi << endl;
+
+
+
+  
