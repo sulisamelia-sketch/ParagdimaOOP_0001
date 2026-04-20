@@ -3,4 +3,10 @@ using namespace std;
 
 class Barang {
 public :
-        
+       string nama;
+        int jumlah;
+        string kategori;
+        char tanggalProduksi;
+
+    void SpesifikasiBarang() {
+             
